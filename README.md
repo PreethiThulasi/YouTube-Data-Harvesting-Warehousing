@@ -30,6 +30,7 @@ pip install sqlalchemy
 pip install streamlit
 
 **Features**
+
 •	Retrieve data from the YouTube API, including channel information, playlists, videos, and comments.
 •	Store the retrieved data in a MongoDB database.
 •	Migrate the data to a SQL data warehouse.
